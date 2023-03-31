@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -9,7 +9,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-
 
 ## Overview
 
@@ -22,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:[Add solution URL here](https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://nitheesh-kumar99.github.io/3-Column-Preview-Component/)
+- Live Site URL:(https://admirable-chimera-af8469.netlify.app)
 
 ## My process
 
